@@ -1,0 +1,19 @@
+{
+    "name": "rezapirighadim/holoo-third-party",
+    "description": "Third party for holoo and my holoo services",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "reza piri ghadim",
+            "email": "reza.piryghadim@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload" : {
+        "psr-4" : {
+            "Torfenagar\\HolooThirdParty\\" : "src/"
+        }
+    },
+    "require": {}
+}
